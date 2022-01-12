@@ -19,4 +19,10 @@ export const books = [
     title: "Project Hail Mary",
     author: "Andy Weir",
   },
+  {
+    id: 4,
+    img: "https://m.media-amazon.com/images/I/51b6fvQr1-L.jpg",
+    title: "Project Hail Mary",
+    author: "Andy Weir",
+  },
 ];
